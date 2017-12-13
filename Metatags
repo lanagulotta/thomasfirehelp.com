@@ -1,0 +1,66 @@
+<link rel="apple-touch-icon" href="touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/thomasfire152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/thomasfire180.png">
+<link rel="apple-touch-icon" sizes="167x167" href="/assets/thomasfire167.png"><html>
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="http://thomasfirehelp.com">
+<meta name="twitter:title" content="Thomas Fire Help">
+<meta name="twitter:description" content="Thomas Fire Help connects help with need.">
+<!--Put your image location here-->
+<meta name="twitter:image" content="http://thomasfirehelp.com/assets/thomasfirehelpfb.jpg" />
+
+  <meta property="og:title" content="Thomas Fire Help" />
+  <meta property="og:description" content="Connecting Help With Need" />
+  <meta property="og:url" content="http://thomasfirehelp.com" />
+  <!--Insert your location of graphic's file-->
+  <meta property="og:image" content="http://ethomasfirehelp.com/assets/thomasfirehelpin.jpg" />
+
+
+<script type="text/javascript" src="//platform.linkedin.com/in.js">
+    api_key:   [API_KEY]
+    onLoad:    [ONLOAD]
+    authorize: [AUTHORIZE]
+    lang:      [LANG_LOCALE]
+</script>
+
+<script>
+<meta property='og:title' content='Thomas Fire Help"/>
+ <!--Insert your location of graphic's file-->
+<meta property='og:image' content='//http://thomasfirehelp.com/assets/thomasfirehelpfb.jpg"/>
+<meta property='og:description' content='We Are Connecting Help With Need"/>
+<meta property='og:url' content='http://thomasfirehelp.com/" />
+
+</script>
+
+
+<!--Put this in the body right after the head ends. ! Create you own FB Analytics ID for your website. You can use my appId if you do not wish to truck app calls from FB, use my appID-->
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1601789766577542',
+      xfbml      : true,
+      version    : 'v2.11'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+
+
+<meta property="og:url"                content="http://thomasfirehelp.com" />
+<meta property="og:type"               content="website" />
+<meta property="og:title"              content="Thomas Fire Help" />
+<meta property="og:description"        content="Connecting Help With Need" />
+<!--Insert your location of graphic's file-->
+<meta property="og:image"              content="http://thomasfirehelp.com/assets/thomasfirehelpfb.jpg" />
+</script>
+
