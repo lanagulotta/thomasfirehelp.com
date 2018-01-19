@@ -1,0 +1,100 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+<style>
+.center {
+    text-align: center;
+    border: 3px;
+    color: rgb(95, 129, 94);
+	font-family: Helvetica, sans-serif;
+	font-size: 18px;
+}
+</style>
+	
+</head>
+
+<body>
+
+<div class = "center">	
+
+<!-- Below is copy and paste from Google form source file, everything beteen <form> and </form>-->
+<!-- Use common sence with classes and JS, some spaghetti code has cna be deleted without affecting the functionality-->
+
+	<form action="https://docs.google.com/forms/d/e/1FAIpQLSfWMB_1fclTO0nsOhPQeFrVJuYpp5zA4MHMGd0M0IMMpk_ZPg/formResponse" target="_self" method="POST" id="mG61Hd">
+		<div class="freebirdFormviewerViewFormCard"></div>
+		<div class="freebirdFormviewerViewAccentBanner freebirdAccentBackground"></div>
+		<div class="freebirdFormviewerViewFormContent ">
+			<div class="freebirdFormviewerViewNoPadding">
+				<div class="freebirdFormviewerViewHeaderHeader">
+					<div class="freebirdFormviewerViewHeaderTitleRow">
+						<div class="freebirdFormviewerViewHeaderTitle freebirdCustomFont" dir="auto" role="heading" aria-level="1">SignUp
+						</div></div>
+					<div jsname="F0H8Yc" class="freebirdCommonViewSecurequizSecureQuizBannerContainer"></div><br>
+					<div class="freebirdFormviewerViewHeaderRequiredLegend" aria-hidden="true" dir="auto" style="color: #85AD7F" >* Required</div></div></div>
+			<div class="freebirdFormviewerViewItemList" role="list">
+				<div role="listitem" class="freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem freebirdFormviewerViewEmailCollectionField" jsname="ibnC6b" jscontroller="rDGJeb" jsaction="sPvj8e:e4JwSe,vwKRrd;" data-required="true" data-validation-operation="102" data-validation-type="2">
+					<div class="freebirdFormviewerViewItemsItemItemHeader">
+						<div class="freebirdFormviewerViewItemsItemItemTitleContainer">
+							<div class="freebirdFormviewerViewItemsItemItemTitle freebirdCustomFont" id="i1" dir="auto" role="heading" aria-level="2" aria-describedby="i3"><br>
+								Email address
+								<span id="i3" class="freebirdFormviewerViewItemsItemRequiredAsterisk" aria-label="Required question" style="color: #85AD7F">*</span></div></div></div><br>
+					<div class="freebirdFormviewerViewItemsTextItemWrapper">
+						<div class="quantumWizTextinputPaperinputEl freebirdFormviewerViewItemsTextShortText freebirdFormviewerViewItemsTextEmail freebirdThemedInput" jscontroller="pxq3x" jsaction="clickonly:KjsqPd; focus:Jt1EX; blur:fpfTEe; input:Lg5SV;" jsshadow jsname="W85ice" title="Email address">
+							<div class="quantumWizTextinputPaperinputMainContent exportContent">
+								<div class="quantumWizTextinputPaperinputContentArea exportContentArea">
+									<div class="quantumWizTextinputPaperinputInputArea">
+										<input type="email" class="quantumWizTextinputPaperinputInput exportInput" jsname="YPqjbf" autocomplete="email" tabindex="0" aria-label="Your email" name="emailAddress" value="" required dir="auto" data-initial-dir="auto" data-initial-value=""/>
+										<div jsname="LwH6nd" class="quantumWizTextinputPaperinputPlaceholder exportLabel" aria-hidden="true">
+											Your email</div></div><div class="quantumWizTextinputPaperinputUnderline exportUnderline"></div>
+									<div jsname="XmnwAc" class="quantumWizTextinputPaperinputFocusUnderline exportFocusUnderline"></div></div></div>
+							<div class="quantumWizTextinputPaperinputCounterErrorHolder"><br>
+								<div jsname="ty6ygf" class="quantumWizTextinputPaperinputHint exportHint"></div></div></div></div>
+					<div jsname="XbIQze" class="freebirdFormviewerViewItemsItemErrorMessage" id="i2" role="alert"></div></div>
+				<div role="listitem" class="freebirdFormviewerViewItemsItemItem freebirdFormviewerViewItemsTextTextItem" jsname="ibnC6b" jscontroller="rDGJeb" jsaction="sPvj8e:e4JwSe,vwKRrd;" data-required="true" data-item-id="1500428185">
+					<div class="freebirdFormviewerViewItemsItemItemHeader"></div>
+						<div class="freebirdFormviewerViewItemsItemItemTitleContainer">
+							<div class="freebirdFormviewerViewItemsItemItemTitle freebirdCustomFont" dir="auto" role="heading" aria-level="2" aria-describedby="i.desc.1500428185 i6">Name <span class="freebirdFormviewerViewItemsItemRequiredAsterisk" aria-label="Required question" style="color: #85AD7F">*</span></div></div><br>
+							<div class="freebirdFormviewerViewItemsItemItemHelpText" id="i.desc.1500428185" dir="auto"></div></div></div>
+				<div class="freebirdFormviewerViewItemsTextItemWrapper">
+					<div class="quantumWizTextinputPaperinputEl freebirdFormviewerViewItemsTextShortText freebirdThemedInput" jscontroller="pxq3x" jsaction="clickonly:KjsqPd; focus:Jt1EX; blur:fpfTEe; input:Lg5SV;" jsshadow jsname="W85ice">
+						<div class="quantumWizTextinputPaperinputMainContent exportContent">
+							<div class="quantumWizTextinputPaperinputContentArea exportContentArea">
+								<div class="quantumWizTextinputPaperinputInputArea"><input type="text" class="quantumWizTextinputPaperinputInput exportInput" jsname="YPqjbf" autocomplete="off" tabindex="0" aria-label="Name" aria-describedby="i.desc.1500428185 i.err.1500428185" name="entry.1023772989" value="" required dir="auto" data-initial-dir="auto" data-initial-value=""/>
+									<div jsname="LwH6nd" class="quantumWizTextinputPaperinputPlaceholder exportLabel" >Your name</div></div></div>
+								<div class="quantumWizTextinputPaperinputUnderline exportUnderline">
+							<div jsname="XmnwAc" class="quantumWizTextinputPaperinputFocusUnderline exportFocusUnderline">
+							<div class="quantumWizTextinputPaperinputCounterErrorHolder">
+								<div jsname="ty6ygf" class="quantumWizTextinputPaperinputHint exportHint"></div></div></div>
+							<div class="freebirdFormviewerViewItemsItemGradingGradingBox freebirdFormviewerViewItemsItemGradingFeedbackBox" jsname="R7fTud"></div>
+									<div jsname="XbIQze" class="freebirdFormviewerViewItemsItemErrorMessage" id="i.err.1500428185" role="alert">
+									<div class="freebirdFormviewerViewNavigationNavControls" jscontroller="lSvzH" jsaction="rcuQ6b:npT2md;JIbuQc:Gl574d(QR6bsb),V3upec(GeGHKb),HiUbje(M2UYVd),NPBnCf(OCpkoe);" data-shuffle-seed="7056792770236784888" data-should-execute-invisible-captcha-challenge="true" data-is-receipt-checked="false">
+										<div jscontroller="SBlcU" jsaction="JIbuQc:ru8P1b;" jsname="QR6bsb" class="freebirdFormviewerViewReceiptEl">
+											<label class="docssharedWizToggleLabeledContainer"></label>
+											<div class="exportLabelWrapper">
+												<div class="quantumWizTogglePapertoggleEl docssharedWizToggleLabeledControl freebirdThemedToggle" jscontroller="EcW08c" jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseleave:JywGue; touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc(preventMouseEvents=true|preventDefault=true); touchcancel:JMtRjd; focus:AHmuwe; blur:O22p3e; keydown:I481le; contextmenu:mg9Pef" jsshadow jsname="ornU0b" aria-label="Send me a copy of my response." tabindex="0" title="SignUp"   role="checkbox" aria-checked="false">
+													<div class="quantumWizTogglePapertoggleTrack exportTrack">
+													<div class="quantumWizTogglePapertoggleInk exportInk">
+													<div class="quantumWizTogglePapertoggleCircles">
+														<div class="quantumWizTogglePapertoggleThumb exportThumb" jsname="IT5dJd">
+														<div class="docssharedWizToggleLabeledContent"></div></div></div></div></div></div></div></div></div></div><br>
+			<input type="hidden" name="emailReceipt" jsname="L9xHkb"></div>
+			<div id="recaptcha" class="g-recaptcha freebirdFormviewerViewCaptchaDefaultRecaptchaBadge" data-sitekey="6LcJMyUUAAAAABOakew3hdiQ0dU8a21s-POW69KQ" data-callback="fbsb" data-size="invisible" data-badge="inline"></div>
+				<div class="freebirdFormviewerViewNavigationButtonsAndProgress"></div>
+				<div class="freebirdFormviewerViewNavigationButtons"></div>
+				<input type="Submit" class="quantumWizButtonPaperbuttonEl quantumWizButtonPaperbuttonFlat quantumWizButtonPaperbuttonDark quantumWizButtonPaperbutton2El2 freebirdFormviewerViewNavigationSubmitButton" jscontroller="VXdfxd" jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue;touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc(preventMouseEvents=true|preventDefault=true); touchcancel:JMtRjd;focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;" jsshadow jsname="M2UYVd" aria-disabled="false" tabindex="0" ><br>
+					<div class="quantumWizButtonPaperbuttonRipple exportInk" jsname="ksKsZd">
+				<div class="quantumWizButtonPaperbuttonFocusOverlay exportOverlay">
+				<content class="quantumWizButtonPaperbuttonContent">
+					<span class="quantumWizButtonPaperbuttonLabel exportLabel"></span>
+					</content>
+						<input type="hidden" name="fvv" value="1">
+						<input type="hidden" name="draftResponse" value="[null,null,&quot;7056792770236784888&quot;]">
+						<input type="hidden" name="pageHistory" value="0">
+					<input type="hidden" name="fbzx" value="7056792770236784888"></div></div></div></div></div></div>
+	</form></div>
+
+	
+	</body>
+</html>
